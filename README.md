@@ -1,8 +1,8 @@
-# IDS706_individual_project_1
-![CI](https://github.com/nogibjj/IDS706_pandas_description_hw2/actions/workflows/CICD.yml/badge.svg)
-![CI](https://github.com/nogibjj/IDS706_pandas_description_hw2/actions/workflows/format.yml/badge.svg)
-![CI](https://github.com/nogibjj/IDS706_pandas_description_hw2/actions/workflows/lint.yml/badge.svg)
-![CI](https://github.com/nogibjj/IDS706_pandas_description_hw2/actions/workflows/test.yml/badge.svg)
+# IDS706_polars-descriptive_hx84
+![CI](https://github.com/nogibjj/IDS706_polars-descriptive_hx84/actions/workflows/CICD.yml/badge.svg)
+![CI](https://github.com/nogibjj/IDS706_polars-descriptive_hx84/actions/workflows/format.yml/badge.svg)
+![CI](https://github.com/nogibjj/IDS706_polars-descriptive_hx84/actions/workflows/lint.yml/badge.svg)
+![CI](https://github.com/nogibjj/IDS706_polars-descriptive_hx84/actions/workflows/test.yml/badge.svg)
 
 ## Requirements
 * The project structure must include the following files:
@@ -59,15 +59,6 @@ In [`src/main.py`](src/main.py), function `statistics()` will generate descripti
 
 There are three kinds of tests in this project.
 
-* [test_lib.py](src/test_lib.py): this script is used to test functions in lib.py which contains functions shared by [`main.py`](src/main.py) and [`python_ds_project_1.ipynb`](python_ds_project_1.ipynb)
+* [test_lib.py](src/test_lib.py): this script is used to test functions in lib.py which contains functions shared by [`main.py`](src/main.py) and [`python_ds_project_1.ipynb`](python_ds_polars.ipynb)
 
 * [test_main.py](src/test_main.py): this script is used to test main if it successfully generate three figures and one PDF report.
-
-* [test_notebook.py](src/test_notebook.py): this script is used to test if the output of jupyter notebook is the same as the saved output.
-
-
-## 🚀 Project Demo Video
-
-Click the thumbnail below to watch the project demonstration video on YouTube:
-
-[![Watch the video](https://i9.ytimg.com/vi_webp/vTlRigKIias/mq2.webp?sqp=CLzlmLcG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACuAWKAgwIABABGGUgZShlMA8=&rs=AOn4CLD9dkEZPz0JLC67t88eSi7cEQq_Ng)](https://youtu.be/vTlRigKIias "Watch on YouTube")
